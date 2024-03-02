@@ -1,0 +1,16 @@
+h2 {
+    color: orange;
+    font-size: 25px;
+}
+
+h4, h3 {
+    color: violet;
+}
+
+h5 {
+    color: yellowgreen !important;
+}
+
+h5{
+    color: red;
+}
