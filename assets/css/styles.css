@@ -7,10 +7,6 @@ h4, h3 {
     color: violet;
 }
 
-h5 {
+h5,h6 {
     color: yellowgreen !important;
-}
-
-h5{
-    color: red;
 }
